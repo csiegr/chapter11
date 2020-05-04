@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtYears" type="id" />
+    <item name="txtPrincipal" type="id" />
+    <item name="txtInterest" type="id" />
+    <item name="txtMonthlyPayment" type="id" />
+</resources>

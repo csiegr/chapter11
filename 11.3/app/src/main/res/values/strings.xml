@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck</string>
+    <string name="txtTruck">10-foot truck, 17-foot truck, or 26-foot truck</string>
+    <string name="txtNumOfMiles">Number Of Miles</string>
+    <string name="txtMiles"></string>
+    <string name="truckImgMain"></string>
+    <string name="truckImg"></string>
+    <string name="txtTotal"></string>
+    <string name="btnTotal">Total</string>
+</resources>
